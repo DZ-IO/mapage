@@ -1,0 +1,6 @@
+[submodule "dist/css"]
+	path = dist/css
+	url = https://github.com/DZ-IO/mapage-theme.git
+[submodule ".mapage/template"]
+	path = .mapage/template
+	url = https://github.com/DZ-IO/mapage-template.git

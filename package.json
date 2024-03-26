@@ -1,0 +1,16 @@
+{
+  "name": "mapage",
+  "version": "1.0.0",
+  "description": "基于 Markdown ，CI 渲染的静态页面框架",
+  "main": "index.js",
+  "scripts": {
+    "build": "mapage",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mapage-gen": "github:DZ-IO/mapage-gen"
+  }
+}
